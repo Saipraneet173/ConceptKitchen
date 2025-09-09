@@ -13,7 +13,7 @@
 #         st.write("-", item)
 
 import streamlit as st
-import langchain_helper
+import chains
 
 st.title("🍳 ConceptKitchen")
 st.subheader("*AI-Powered Restaurant Concept Generator*")
