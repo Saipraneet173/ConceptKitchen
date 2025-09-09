@@ -1,0 +1,114 @@
+# Environment Variables - CRITICAL!
+.env
+.env.local
+.env.*.local
+secrets.toml
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pythonversion
+
+# PyCharm specific
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
+
+# Virtual Environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ChromaDB / Vector Database
+vectorstore/
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+.chroma/
+persist_directory/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+logs/
+*.pid
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+.coverage.*
+coverage.xml
+*.cover
+
+# Streamlit
+.streamlit/config.toml
+*.pkl
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+.temp/
+tmp/
+temp/
+
+# Project specific (add these as needed)
+test_outputs/
+debug/
+old_versions/
