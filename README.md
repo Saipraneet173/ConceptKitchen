@@ -2,6 +2,10 @@
 
 > *Because every great restaurant starts with a spark of imagination*
 
+## 🔗 Live Demo
+### **[Try ConceptKitchen Live →](https://conceptkitchen.streamlit.app/)**
+No API key? No problem! Demo mode lets you explore a pre-generated concept.
+
 Hey there! 👋 Welcome to ConceptKitchen - a project born from my curiosity about what happens when AI meets culinary entrepreneurship. 
 
 Ever wondered what it takes to conceptualize a restaurant from scratch? Me too. That's why I built this.
@@ -125,3 +129,4 @@ MIT License - basically, do whatever you want with this code. If it helps you bu
 *Built with ☕ and too many late-night debugging sessions by Saipraneet*
 
 **P.S.** - If you actually use this to start a restaurant, I want an invite to the grand opening! 😉
+
